@@ -9,3 +9,6 @@ Kit-Kat
 Starbursts
 milk duds
 candy canes
+
+Favorite Color:
+Yellow
